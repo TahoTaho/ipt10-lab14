@@ -1,0 +1,81 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    max-width: 900px;
+    margin-top: 50px;
+    padding: 40px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.alert-info {
+    background-color: #d1ecf1;
+    color: #0c5460;
+    border-color: #bee5eb;
+}
+
+.form-label {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.form-check-label {
+    font-size: 14px;
+}
+
+.form-check {
+    margin-bottom: 15px;
+}
+
+.btn {
+    width: 200px;
+    margin-top: 15px;
+}
+
+.btn-success {
+    background-color: #28a745;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+}
+
+.form-select {
+    height: 40px;
+}
+
+.custom-checkbox {
+    padding-left: 30px;
+}
+
+.form-check-input {
+    margin-top: 7px;
+}
+
+.message {
+    text-align: center;
+    font-size: 18px;
+}
+
+.message a {
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.message a:hover {
+    opacity: 0.8;
+}
